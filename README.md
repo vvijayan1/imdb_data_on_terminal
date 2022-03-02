@@ -19,7 +19,7 @@ So, what we do in this tutorial is to take a dataset and explain how the dataset
 
 # How to navigate this tutorial?
 
-Navigate this tutorial from Lesson1 onwards; do not jump to lessons in a non-sequential manner as you will not be able to follow.
+Navigate this tutorial from [Lesson 1](Lesson1.md) onwards; do not jump to lessons in a non-sequential manner as you will not be able to follow.
 
 # Prerequisite to go through this tutorial
 
