@@ -16,3 +16,12 @@ Yes. At a distance that is what it might seem like. But most tutorials/books do 
 - Take a stance that everything can be done on the command line; that again is like using the golden hammer. Command line is great for initial analysis but beyond that you will need to use programming languages
 
 So, what we do in this tutorial is to take a dataset and explain how the dataset can be analysed on the command line. The same dataset is used throughout the tutorial because that is what you would do practically when you get a dataset.
+
+# How to navigate this tutorial?
+
+Navigate this tutorial from Lesson1 onwards; do not jump to lessons in a non-sequential manner as you will not be able to follow.
+
+# Prerequisite to go through this tutorial
+
+- This is a practical tutorial which works on a Unix based terminal; first set up one before you begin
+- You do not have to be conversant with Unix command line, but should have the patience to stick to it as command line is an acquired taste
