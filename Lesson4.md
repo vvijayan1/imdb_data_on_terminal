@@ -125,3 +125,5 @@ What did we learn in this lesson?
 
 - Aggregating data
 - Extracting basic statistics from the data
+
+After having covered the basics, move on to find out slightly _advanced_ topic of streaming files, which makes your life a lot easier. [Lesson 5](Lesson5.md).

@@ -115,4 +115,6 @@ name.basics.tsv      title.basics.tsv     title.episode.tsv    title.ratings.tsv
 title.akas.tsv       title.crew.tsv       title.principals.tsv
 ```
 
-Congratulations! You have used only terminal using keyboards to download the data files and bring them to a shape where you an vet them in the next sections.
+## Review
+
+Congratulations! You have used only terminal using keyboards to download the data files and bring them to a shape where you an vet them in the next sections. To learn to do basic checks on the data move to [Lesson 2](Lesson2.md).

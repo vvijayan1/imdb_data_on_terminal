@@ -299,3 +299,5 @@ What did you learn in this lesson? Not any different from what you do when you i
 - Data does not match the documentation e.g. in IMDB data `title` is missing in the data file `title.akas.tsv.gz`
 - Data size does not match your intuition e.g. `title.akas.tsv.gz` has just 1000 lines, meaning less than 1000 movies/shows - which indicates something is missing
 - Repeated extract of random data (using `gshuf`) shows that data is not something you can comprehend
+
+You can move on to qualitative assessment of the data in [Lesson 3](Lesson3.md).

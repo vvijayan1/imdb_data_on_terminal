@@ -289,3 +289,5 @@ What did we learn to do in this lesson?
 
 - Learn to use the `csvtool` library for data processing
 - Qualitative analysis of the data and corroborating with our intuition
+
+Now that qualitative assessment is covered, move on to quantitative assessment in [Lesson 4](Lesson4.md).
