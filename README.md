@@ -23,5 +23,6 @@ Navigate this tutorial from [Lesson 1](Lesson1.md) onwards; do not jump to lesso
 
 # Prerequisite to go through this tutorial
 
-- This is a practical tutorial which works on a Unix based terminal; first set up one before you begin
+- This is a practical tutorial which works on a Unix based terminal; first set up one before you begin - if you are working on Mac or Ubuntu, you are already set
 - You do not have to be conversant with Unix command line, but should have the patience to stick to it as command line is an acquired taste
+- There will be occasions where the tools used in this tutorial is not available pre-installed on your machine; in such cases figure out a way to install teh tools. All tools used are popularly available and hence you will not face road blockers.

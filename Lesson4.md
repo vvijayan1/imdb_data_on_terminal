@@ -118,3 +118,10 @@ csvstat -t -c birthYear name.basics.tsv --max
 ```
 
 will answer how old is the oldest artist, but not who it is. Again this throws very surprising results, some 'crew' members have a birth date as early as in the 1st century and the data does not seem to be incorrect.
+
+## Review
+
+What did we learn in this lesson?
+
+- Aggregating data
+- Extracting basic statistics from the data
