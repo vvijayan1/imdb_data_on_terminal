@@ -29,7 +29,7 @@ Navigate this tutorial from [Lesson 1](Lesson1.md) onwards; do not jump to lesso
 
 ### [Lesson 4](Lesson4.md): How to do a basic quantitative assessment of the data
 
-### [Lesson 5](Lesson4.md): Stream first, download next
+### [Lesson 5](Lesson5.md): Stream first, download next
 
 # Prerequisite to go through this tutorial
 
