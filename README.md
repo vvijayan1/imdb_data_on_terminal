@@ -21,6 +21,16 @@ So, what we do in this tutorial is to take a dataset and explain how the dataset
 
 Navigate this tutorial from [Lesson 1](Lesson1.md) onwards; do not jump to lessons in a non-sequential manner as you will not be able to follow.
 
+### [Lesson 1](Lesson1.md): Obtaining the Dataset
+
+### [Lesson 2](Lesson2.md): Doing basic checks on data files
+
+### [Lesson 3](Lesson3.md): How to do a qualitative assessment of the data
+
+### [Lesson 4](Lesson4.md): How to do a basic quantitative assessment of the data
+
+### [Lesson 5](Lesson4.md): Stream first, download next
+
 # Prerequisite to go through this tutorial
 
 - This is a practical tutorial which works on a Unix based terminal; first set up one before you begin - if you are working on Mac or Ubuntu, you are already set
