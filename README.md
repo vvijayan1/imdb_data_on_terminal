@@ -1,8 +1,8 @@
 # Yet Another Tutorial for Data on Command Line
 
-# Analyzing IMDB Data on the Command Line
+## Analyzing IMDB Data on the Command Line
 
-# _Data is the new oil - Clive Humby_
+### _Data is the new oil - Clive Humby_
 
 ## Introduction
 
